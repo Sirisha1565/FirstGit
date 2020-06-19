@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser
+navigate url
+Click on TRY IT button
+click on OK button</description>
+   <name>AlertBOXOk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a15dfe7c-e44a-43a1-993d-35bd2db99a77</testCaseGuid>
+</TestCaseEntity>
